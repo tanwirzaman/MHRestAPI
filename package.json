@@ -1,0 +1,17 @@
+{
+  "name": "mhrestapi",
+  "version": "0.0.1",
+  "description": "Rest api for MH",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanwir Zaman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.12.4",
+    "mongoose": "^4.0.5",
+    "morgan": "^1.6.0"
+  }
+}
